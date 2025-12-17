@@ -47,7 +47,9 @@ Includes:
 | GitHub | Project Hosting |
 
 ---
-![Dashboard Overview](images/dashboard1_overview2.png)
+![Dashboard Overview](https://github.com/imajitdixit/JOB-MARKET-DASHBOARD/blob/main/Screenshot%202025-12-17%20182302.png)
+G2
+(https://github.com/imajitdixit/JOB-MARKET-DASHBOARD/blob/main/Screenshot%202025-12-17%20182317.png)
 
 
 ---
